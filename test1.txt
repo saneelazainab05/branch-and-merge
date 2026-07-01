@@ -1,0 +1,12 @@
+Sample Notes
+
+- This is a test text file.
+- Created for practice.
+- HTML file: index.html
+- Date: July 1, 2026
+
+Learning Goals:
+1. HTML
+2. CSS
+3. JavaScript
+4. Web Development
